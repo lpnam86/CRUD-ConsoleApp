@@ -1,0 +1,7 @@
+E:\C# tutorial\CRUD-ConsoleApp\CRUD-ConsoleApp\bin\Debug\CRUD-ConsoleApp.exe.config
+E:\C# tutorial\CRUD-ConsoleApp\CRUD-ConsoleApp\bin\Debug\CRUD-ConsoleApp.exe
+E:\C# tutorial\CRUD-ConsoleApp\CRUD-ConsoleApp\bin\Debug\CRUD-ConsoleApp.pdb
+E:\C# tutorial\CRUD-ConsoleApp\CRUD-ConsoleApp\obj\Debug\CRUD-ConsoleApp.csproj.AssemblyReference.cache
+E:\C# tutorial\CRUD-ConsoleApp\CRUD-ConsoleApp\obj\Debug\CRUD-ConsoleApp.csproj.CoreCompileInputs.cache
+E:\C# tutorial\CRUD-ConsoleApp\CRUD-ConsoleApp\obj\Debug\CRUD-ConsoleApp.exe
+E:\C# tutorial\CRUD-ConsoleApp\CRUD-ConsoleApp\obj\Debug\CRUD-ConsoleApp.pdb
